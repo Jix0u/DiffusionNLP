@@ -1,2 +1,2 @@
-Categorizing abstract sentences with NLP for researchers to quickly navigate through literature 
-NLP model experimentation + Skim Literature Full Pipelien --- Zero to Mastery TensorFlow course for NLP
+Categorizing abstract sentences with NLP for researchers to quickly navigate through literature  
+NLP model experimentation + Skim Literature Full Pipeline --- Zero to Mastery TensorFlow course for NLP

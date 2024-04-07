@@ -1,5 +1,5 @@
 # LLM Exploration:
-GPT decoder-only architecture with Inputs as Tokens and Outputs as Logits
+Understanding LLM engineering and structure with GPT decoder-only architecture --- LLM course mlabonne
 
 **Tokenization** : Splitting text into tokens (words/subwords)
 
